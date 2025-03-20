@@ -1,0 +1,7 @@
+__pycache__
+.venv
+# Ignore entire models folder
+models/
+
+# Ignore all CSV files
+*.csv
