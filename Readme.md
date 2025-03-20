@@ -1,4 +1,4 @@
-*# Credit Card Fraud Detection System
+# Credit Card Fraud Detection System
 
 A machine learning-based system for detecting fraudulent credit card transactions with high accuracy and minimal false positives.
 
@@ -179,4 +179,4 @@ The system was trained using the fraudTrain.csv dataset and evaluated on fraudTe
 - Merchant information
 - Customer demographics
 - Geographic coordinates
-- Fraud labels (0.58% of transactions labeled as fraud)*
+- Fraud labels (0.58% of transactions labeled as fraud)
